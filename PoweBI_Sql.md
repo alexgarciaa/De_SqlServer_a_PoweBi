@@ -18,7 +18,7 @@ Dentro del proceso de ETL, esta parte es conocida como la de extraccion.
 
   ![Seleccion de tablas](23seleccion%20de%20tablas%20a%20trabajar.png)
 
-- Ahora toca asegurarnos que la imformación de los campos en nuestras tablas sean las que necesitamos y que esten bajo el formato correcto, para esto se hacen los cambios necesarios para tener datos coherentes y que permitan relacionarce entre si. Ha este proceso se le conoce como transformacion, dentro del ETL.
+- Ahora toca asegurarnos que la información de los campos en nuestras tablas sean las que necesitamos y que esten bajo el formato correcto, para esto se hacen los cambios necesarios para tener datos coherentes y que permitan relacionarce entre si. Ha este proceso se le conoce como transformacion, dentro del ETL.
 
   ![Transformacion de la informacion](24Tratamiento%20de%20los%20datos.png)
 
