@@ -1,6 +1,6 @@
 # <span style="color:gold">Reporte de ventas en PowerBI desde una base de datos SQL Server</span>
 
-Hola y bienvenidos :wave:, en esta ocasión vamos crear un dashboarh interactivo recpecto a las ventas en Power BI apartir de la información que nos brinda la base de datos northwind en el gestor Sql Server.
+Hola y bienvenidos :wave:, en esta ocasión vamos crear un dashboard interactivo recpecto a las ventas en Power BI apartir de la información que nos brinda la base de datos northwind en el gestor Sql Server.
 Para ello recordaremos conceptos como ETL(extracción,transformación y carga), modelado estrella,cardinalidad, fórmulas Dax, flujo de datos, etc. 
 Listo, entonces vamos.
 
